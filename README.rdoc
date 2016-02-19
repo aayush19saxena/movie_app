@@ -1,1 +1,3 @@
-Rails application for reviewing movies! 
+#Rails application for reviewing movies! 
+
+
